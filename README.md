@@ -27,7 +27,7 @@ Aqui se encontram as melhorias do projeto
 4. Sirva
 
 
-### Imagem url
+### Imagem externa 
 
-A porra do Mega Charizard Ys
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fpokedex-br.fandom.com%2Fpt-br%2Fwiki%2FMega_Charizard_Y&psig=AOvVaw2mq4fX0_mFN6pu-KdJsqIt&ust=1744219797293000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjy9pz7yIwDFQAAAAAdAAAAABAE)
+A porra do Mega Charizard Y
+![Charizard Y](https://static.wikia.nocookie.net/pokedex-br/images/e/e6/MCharizard.png/revision/latest?cb=20151223144910&path-prefix=pt-br)
