@@ -35,3 +35,11 @@ A porra do Mega Charizard Y
 
 ### Links
 [Google](https://www.google.com)
+
+
+### Lista de tarefas
+
+- [x] Área de membros
+- [] Sistema de Bônus
+- [x] Integração do pagamento
+- [] CSS do rodapé
