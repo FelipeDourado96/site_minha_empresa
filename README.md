@@ -34,4 +34,4 @@ A porra do Mega Charizard Y
 
 
 ### Links
-[Google](www.google.com)
+[Google](https://www.google.com)
